@@ -63,8 +63,8 @@
 
 ## 🎯 Currently
 
-- 🏠 Developing **AFFORDAHOMES**, my full-stack capstone system
-- 🌐 Maintaining and improving my live **production portfolio**
+- 🏠 Maintaining and improving **AFFORDAHOMES**, my deployed full-stack capstone system
+- 🌐 Maintaining and improving my live **personal portfolio**
 - 🔐 Strengthening my skills in **Network Engineering, Cybersecurity, and IT Infrastructure**
 - 💻 Expanding my experience in **Full-Stack and Mobile Application Development**
 - 🤖 Exploring practical **AI-assisted development and IT workflows**
@@ -75,11 +75,11 @@
 
 ### 🏠 AFFORDAHOMES
 
-Full-stack capstone system focused on real-estate sales workflows, client-agent interactions, property inventory, inquiries, reservations, site visits, and integrated business processes.
+A deployed full-stack capstone system designed to support real-estate sales workflows, client-agent interactions, property inventory, inquiries, reservations, site visits, and integrated business processes.
 
 **Focus:** Full-Stack Development • REST APIs • Database Design • System Integration • Role-Based Workflows • Testing
 
-> 🚧 Currently in active development
+🌐 [View Live Website](https://affordahomesph.online/)
 
 ---
 
@@ -122,7 +122,7 @@ I enjoy hands-on work involving **TCP/IP, subnetting, VLSM, routing, access cont
 
 Alongside networking and infrastructure, I also build full-stack and mobile applications using technologies such as **React, Laravel, Flutter, Firebase, and MySQL**.
 
-I'm continuously improving through real projects, networking labs, certifications, software development, testing, and practical IT work.
+I'm continuously improving through real projects, networking labs, certifications, software development, testing, deployment, and practical IT work.
 
 ---
 
@@ -191,6 +191,11 @@ I'm continuously improving through real projects, networking labs, certification
 <p align="center">
   🌐 <strong>Portfolio Website:</strong>
   <a href="https://genji-portfolio-ashy.vercel.app">genji-portfolio-ashy.vercel.app</a>
+</p>
+
+<p align="center">
+  🏠 <strong>AFFORDAHOMES:</strong>
+  <a href="https://affordahomesph.online/">affordahomesph.online</a>
 </p>
 
 <p align="center">
