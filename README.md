@@ -52,7 +52,7 @@
 ## 🚀 Currently
 
 - 🏠 Developing **AFFORDAHOMES**, a full-stack capstone system
-- 🌐 Building my personal **portfolio website**
+- 🌐 Maintaining and improving my live **personal portfolio website**
 - 🔐 Strengthening my skills in **Network Engineering, Cybersecurity, and IT Infrastructure**
 - 💻 Expanding my experience in **Full-Stack and Mobile Application Development**
 - 🤖 Exploring practical **AI-assisted development and IT workflows**
@@ -157,7 +157,7 @@ I'm continuously improving through hands-on projects, networking labs, certifica
 </p>
 
 <p align="center">
-  🌐 <strong>Portfolio Website:</strong> Currently in development
+  🌐 <strong>Portfolio Website:</strong> <a href="https://genji-portfolio-ashy.vercel.app">genji-portfolio-ashy.vercel.app</a>
 </p>
 
 ---
