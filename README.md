@@ -40,8 +40,10 @@ Hands-on networking and security work involving routing, addressing, access cont
 #### Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,flutter,dart,php,laravel,mysql,firebase,java" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,flutter,dart,php,laravel,mysql,firebase,java,kotlin,androidstudio" />
 </p>
+
+**Languages & Development:** PHP • Java • Kotlin • JavaScript • TypeScript • Dart • HTML5 • CSS3 • SQL
 
 #### Networking, Infrastructure & Tools
 
@@ -49,7 +51,7 @@ Hands-on networking and security work involving routing, addressing, access cont
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman" />
 </p>
 
-**Networking & Security:** Cisco Packet Tracer • TCP/IP • Subnetting • VLSM • OSPF • ACLs • SSH • DHCP Snooping • Port Security
+**Networking & Security:** Cisco Packet Tracer • TCP/IP • IPv4 Addressing • Subnetting • VLSM • OSPF • ACLs • SSH • DHCP Snooping • Port Security • Network Troubleshooting
 
 ---
 
@@ -60,6 +62,7 @@ Hands-on networking and security work involving routing, addressing, access cont
 - Cisco Network Addressing and Basic Troubleshooting
 - Cisco Network Support and Security
 - Cisco Networking Basics
+- IT Specialist - Networking
 - CompTIA IT Fundamentals+ related training and badges
 
 ---
