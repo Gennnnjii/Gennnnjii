@@ -2,7 +2,7 @@
 <h3 align="center">Genji | 4th-Year BS Information Technology Student</h3>
 
 <p align="center">
-  Aspiring Network Engineer & Cybersecurity Professional<br/>
+  Aspiring Network Engineer • Cybersecurity & IT Infrastructure<br/>
   Full-Stack Developer • AI Enthusiast
 </p>
 
@@ -37,33 +37,46 @@ Hands-on networking and security work involving routing, addressing, access cont
 
 ### 🧰 Technologies & Tools
 
-#### Development
+#### 💻 Programming Languages & Web Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,flutter,dart,php,laravel,mysql,firebase,java,kotlin,cpp,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,ts,dart,php,html,css" />
 </p>
 
-**Languages & Development:** PHP • Java • Kotlin • C++ • JavaScript • TypeScript • Dart • HTML5 • CSS3 • SQL
+**Languages:** Java • Kotlin • C++ • JavaScript • TypeScript • Dart • PHP • SQL  
+**Web:** HTML5 • CSS3
 
-#### Networking, Infrastructure & Tools
+#### ⚙️ Frameworks, Libraries & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,laravel,firebase,mysql" />
 </p>
 
-**Networking & Security:** Cisco Packet Tracer • TCP/IP • IPv4 Addressing • Subnetting • VLSM • OSPF • ACLs • SSH • DHCP Snooping • Port Security • Network Troubleshooting
+**Technologies:** React • Vite • Tailwind CSS • Flutter • Laravel • Firebase • MySQL
+
+#### 🛠️ Development Tools & IDEs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,vscode,postman,git,github,linux" />
+</p>
+
+**Tools & IDEs:** Android Studio • Eclipse • Dev-C++ • Visual Studio Code • Postman • Git • GitHub • Linux
+
+#### 🌐 Networking & Security
+
+**Tools & Concepts:** Cisco Packet Tracer • TCP/IP • IPv4 Addressing • Subnetting • VLSM • OSPF • ACLs • SSH • DHCP Snooping • Port Security • Network Administration • Network Troubleshooting
 
 ---
 
 ### 🎓 Certifications
 
-- Cisco Network Technician Career Path
-- Cisco Networking Devices and Initial Configuration
-- Cisco Network Addressing and Basic Troubleshooting
-- Cisco Network Support and Security
-- Cisco Networking Basics
-- IT Specialist - Networking
-- CompTIA IT Fundamentals+ related training and badges
+- **Network Technician Career Path** — Cisco
+- **Networking Devices and Initial Configuration** — Cisco
+- **Network Addressing and Basic Troubleshooting** — Cisco
+- **Network Support and Security** — Cisco
+- **Networking Basics** — Cisco
+- **IT Specialist - Networking** — Certiport / Pearson VUE
+- **CompTIA IT Fundamentals+ (ITF+) Certification** — CompTIA
 
 ---
 
@@ -71,10 +84,10 @@ Hands-on networking and security work involving routing, addressing, access cont
 
 <p>
   <a href="https://github.com/Gennnnjii">
-    <img src="https://img.shields.io/badge/GitHub-Gennnnjii-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Gennnnjii-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kevin-tolentino-46182a33a">
-    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Tolentino-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Tolentino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
