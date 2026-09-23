@@ -159,7 +159,7 @@ Hands-on networking and security work involving routing, addressing, subnetting,
 
   <a href="https://www.facebook.com/geennjiii/">
     <img
-      src="https://img.shields.io/badge/Facebook-Kevin%20Tolentino-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      src="https://img.shields.io/badge/Facebook-Genji%20Tolentino-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
       alt="Facebook"
     />
   </a>
