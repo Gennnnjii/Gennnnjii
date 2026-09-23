@@ -2,8 +2,12 @@
 <h3 align="center">Genji | 4th-Year BS Information Technology Student</h3>
 
 <p align="center">
-  Aspiring Network Engineer • Cybersecurity & IT Infrastructure<br/>
+  <strong>Aspiring Network Engineer • Cybersecurity & IT Infrastructure</strong><br/>
   Full-Stack Developer • AI Enthusiast
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gennnnjii&label=Profile%20Views&color=0e75b6&style=flat" alt="Gennnnjii Profile Views" />
 </p>
 
 ---
@@ -14,9 +18,19 @@
 - 🌐 Focused on **Network Engineering, Cybersecurity, and IT Infrastructure**
 - 💻 Building experience in **Full-Stack and Mobile Application Development**
 - 🤖 Exploring practical applications of **AI in software and IT workflows**
-- 🛠️ Currently working on **AFFORDAHOMES**, a full-stack capstone system
+- 🛠️ Currently developing **AFFORDAHOMES**, a full-stack capstone system
 - 📱 Built **CampusFind**, a Flutter + Firebase campus lost-and-found application
-- 📚 Continuously improving my networking, security, software development, and troubleshooting skills
+- 📚 Continuously improving through hands-on projects, networking labs, certifications, and technical problem solving
+
+---
+
+### 🎯 Current Focus
+
+- 🌐 Network Engineering & Network Administration
+- 🔐 Cybersecurity & IT Infrastructure
+- 🛠️ Network Configuration, Security & Troubleshooting
+- 💻 Full-Stack & Mobile Application Development
+- 🤖 Practical AI-assisted development and IT workflows
 
 ---
 
@@ -24,17 +38,23 @@
 
 #### 🏠 AFFORDAHOMES
 
-Full-stack capstone project focused on real-estate sales workflows, client-agent interactions, property inventory, inquiries, reservations, and system integration.
+Full-stack capstone project focused on real-estate sales workflows, client-agent interactions, property inventory, inquiries, reservations, site visits, and system integration.
+
+**Focus:** Full-Stack Development • Backend APIs • Database Design • System Integration • Role-Based Workflows
 
 #### 📱 CampusFind — Campus Lost & Found App
 
 Flutter + Firebase mobile application with authenticated reporting, real-time Firestore data, search and filtering, possible-item matching, AI-assisted explanations, and Campus Security claim workflows.
 
+**Technologies:** Flutter • Dart • Firebase Authentication • Cloud Firestore • Provider • Firestore Security Rules
+
 🔗 [View CampusFind Repository](https://github.com/Gennnnjii/campusfind-lost-found)
 
 #### 🌐 Networking & Security Lab
 
-Hands-on networking and security work involving routing, addressing, access control, switching security, SSH, DHCP protection, and troubleshooting.
+Hands-on networking and security work involving routing, addressing, subnetting, access control, switching security, secure remote access, DHCP protection, and network troubleshooting.
+
+**Topics:** TCP/IP • IPv4 Addressing • Subnetting • VLSM • OSPF • ACLs • SSH • DHCP Snooping • Port Security
 
 ---
 
@@ -49,21 +69,29 @@ Hands-on networking and security work involving routing, addressing, access cont
 **Languages:** Java • Kotlin • C++ • JavaScript • TypeScript • Dart • PHP • SQL  
 **Web Fundamentals:** HTML5 • CSS3
 
-#### ⚙️ Frameworks, Libraries & Platforms
+#### ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,flutter,laravel,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,flutter,laravel" />
 </p>
 
-**Technologies:** React • Vite • Tailwind CSS • Bootstrap • Flutter • Laravel • Firebase • MySQL
+**Frameworks & Libraries:** React • Tailwind CSS • Bootstrap • Flutter • Laravel
+
+#### 🗄️ Database & Backend Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+**Database & Backend:** MySQL • Firebase • Cloud Firestore • Firebase Authentication
 
 #### 🛠️ Development Tools & IDEs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,vscode,postman,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=vite,androidstudio,eclipse,vscode,postman,git,github,linux" />
 </p>
 
-**Tools & IDEs:** Android Studio • Eclipse • Dev-C++ • Visual Studio Code • Postman • Git • GitHub • Linux
+**Tools & IDEs:** Vite • Android Studio • Eclipse • Dev-C++ • Visual Studio Code • Postman • Git • GitHub • Linux
 
 #### 🌐 Networking & Security
 
@@ -83,9 +111,20 @@ Hands-on networking and security work involving routing, addressing, access cont
 
 ---
 
+### 🔥 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Gennnnjii&theme=dark&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
+    alt="Kevin Tolentino GitHub Streak"
+  />
+</p>
+
+---
+
 ### 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/Gennnnjii">
     <img src="https://img.shields.io/badge/GitHub-Gennnnjii-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
