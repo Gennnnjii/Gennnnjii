@@ -40,10 +40,10 @@ Hands-on networking and security work involving routing, addressing, access cont
 #### Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,flutter,dart,php,laravel,mysql,firebase,java,kotlin,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,flutter,dart,php,laravel,mysql,firebase,java,kotlin,cpp,androidstudio" />
 </p>
 
-**Languages & Development:** PHP • Java • Kotlin • JavaScript • TypeScript • Dart • HTML5 • CSS3 • SQL
+**Languages & Development:** PHP • Java • Kotlin • C++ • JavaScript • TypeScript • Dart • HTML5 • CSS3 • SQL
 
 #### Networking, Infrastructure & Tools
 
