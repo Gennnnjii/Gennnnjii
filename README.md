@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kevin T. Tolentino</h1>
-<h3 align="center">Genji | 4th-Year BS Information Technology Student</h3>
+<h3 align="center">Genji | BS Information Technology Graduate</h3>
 
 <p align="center">
-  <strong>Aspiring Network Engineer • Cybersecurity & IT Infrastructure</strong><br/>
-  Full-Stack Developer • AI Enthusiast
+  <strong>Network Engineering • Cybersecurity • IT Infrastructure</strong><br/>
+  Full-Stack Development • System Integration
 </p>
 
 <p align="center">
@@ -61,12 +61,13 @@
 
 ---
 
-## 🎯 Currently
+## 🎯 Professional Focus
 
+- 🌐 Building toward a career in **Network Engineering, Network Administration, and IT Infrastructure**
+- 🔐 Strengthening practical skills in **Cybersecurity, Network Security, and Infrastructure Protection**
 - 🏠 Maintaining and improving **AFFORDAHOMES**, my deployed full-stack capstone system
-- 🌐 Maintaining and improving my live **personal portfolio**
-- 🔐 Strengthening my skills in **Network Engineering, Cybersecurity, and IT Infrastructure**
-- 💻 Expanding my experience in **Full-Stack and Mobile Application Development**
+- 💻 Continuing to build experience in **Full-Stack, Mobile, and Systems Development**
+- 🧩 Expanding my knowledge in **System Integration, APIs, Databases, Testing, and Technical Troubleshooting**
 - 🤖 Exploring practical **AI-assisted development and IT workflows**
 
 ---
@@ -75,7 +76,7 @@
 
 ### 🏠 AFFORDAHOMES
 
-A deployed full-stack capstone system designed to support real-estate sales workflows, client-agent interactions, property inventory, inquiries, reservations, site visits, and integrated business processes.
+A deployed full-stack real-estate system developed as my BS Information Technology capstone project, supporting client-agent interactions, property inventory, inquiries, reservations, site visits, sales workflows, and integrated business processes.
 
 **Focus:** Full-Stack Development • REST APIs • Database Design • System Integration • Role-Based Workflows • Testing
 
@@ -85,7 +86,7 @@ A deployed full-stack capstone system designed to support real-estate sales work
 
 ### 🌐 Personal Portfolio
 
-Production-deployed personal portfolio showcasing my projects, technical skills, certifications, and career direction in networking, cybersecurity, IT infrastructure, and software development.
+Production-deployed personal portfolio showcasing my projects, technical skills, certifications, and professional direction in networking, cybersecurity, IT infrastructure, and software development.
 
 **Stack:** React • TypeScript • Vite • Tailwind CSS • Motion • Vercel
 
@@ -108,21 +109,21 @@ Flutter + Firebase mobile application designed for campus use with authenticated
 
 ### 🌐 Enterprise Networking & Security Lab
 
-Hands-on networking and security work involving routing, addressing, subnetting, access control, switching security, secure remote access, DHCP protection, and network troubleshooting.
+Hands-on networking and security work involving routing, addressing, subnetting, VLANs, access control, switching security, secure remote access, DHCP protection, firewall configuration, network segmentation, and troubleshooting.
 
-**Topics:** TCP/IP • IPv4 Addressing • Subnetting • VLSM • OSPF • ACLs • SSH • DHCP Snooping • Port Security
+**Topics:** TCP/IP • IPv4 Addressing • Subnetting • VLSM • VLANs • 802.1Q • OSPF • ACLs • SSH • DHCP Snooping • Port Security • Network Security • Network Troubleshooting
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a 4th-year **BS Information Technology** student at **National University** with a strong interest in **Network Engineering, Cybersecurity, and IT Infrastructure**.
+I'm a **BS Information Technology graduate from National University** with a strong interest in **Network Engineering, Cybersecurity, and IT Infrastructure**.
 
-I enjoy hands-on work involving **TCP/IP, subnetting, VLSM, routing, access control, secure remote access, network security, troubleshooting, system integration, and technical problem solving**.
+My hands-on experience includes **TCP/IP, subnetting, VLSM, routing, VLANs, access control, secure remote access, network security, infrastructure troubleshooting, system integration, and technical problem solving**.
 
-Alongside networking and infrastructure, I also build full-stack and mobile applications using technologies such as **React, Laravel, Flutter, Firebase, and MySQL**.
+Alongside networking and infrastructure, I build full-stack and mobile applications using technologies such as **React, Laravel, Flutter, Firebase, and MySQL**, with experience working across frontend interfaces, backend APIs, databases, authentication, testing, and deployment.
 
-I'm continuously improving through real projects, networking labs, certifications, software development, testing, deployment, and practical IT work.
+I continue strengthening my skills through deployed projects, networking and security labs, certifications, software development, troubleshooting, and practical IT work.
 
 ---
 
@@ -206,5 +207,5 @@ I'm continuously improving through real projects, networking labs, certification
 ---
 
 <p align="center">
-  <em>Building my skills one project, one network, and one problem at a time.</em>
+  <em>Building reliable systems, strengthening networks, and continuously improving through hands-on experience.</em>
 </p>
