@@ -10,9 +10,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 4th-year **BS Information Technology** student at National University
+- 🎓 4th-year **BS Information Technology** student at **National University**
 - 🌐 Focused on **Network Engineering, Cybersecurity, and IT Infrastructure**
-- 💻 Also building experience in **Full-Stack Development**
+- 💻 Building experience in **Full-Stack and Mobile Application Development**
 - 🤖 Exploring practical applications of **AI in software and IT workflows**
 - 🛠️ Currently working on **AFFORDAHOMES**, a full-stack capstone system
 - 📱 Built **CampusFind**, a Flutter + Firebase campus lost-and-found application
@@ -23,36 +23,39 @@
 ### 🚀 Featured Projects
 
 #### 🏠 AFFORDAHOMES
+
 Full-stack capstone project focused on real-estate sales workflows, client-agent interactions, property inventory, inquiries, reservations, and system integration.
 
 #### 📱 CampusFind — Campus Lost & Found App
+
 Flutter + Firebase mobile application with authenticated reporting, real-time Firestore data, search and filtering, possible-item matching, AI-assisted explanations, and Campus Security claim workflows.
 
 🔗 [View CampusFind Repository](https://github.com/Gennnnjii/campusfind-lost-found)
 
 #### 🌐 Networking & Security Lab
+
 Hands-on networking and security work involving routing, addressing, access control, switching security, SSH, DHCP protection, and troubleshooting.
 
 ---
 
 ### 🧰 Technologies & Tools
 
-#### 💻 Programming Languages & Web Technologies
+#### 💻 Programming Languages & Web Fundamentals
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,ts,dart,php,html,css" />
 </p>
 
 **Languages:** Java • Kotlin • C++ • JavaScript • TypeScript • Dart • PHP • SQL  
-**Web:** HTML5 • CSS3
+**Web Fundamentals:** HTML5 • CSS3
 
 #### ⚙️ Frameworks, Libraries & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,laravel,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,flutter,laravel,firebase,mysql" />
 </p>
 
-**Technologies:** React • Vite • Tailwind CSS • Flutter • Laravel • Firebase • MySQL
+**Technologies:** React • Vite • Tailwind CSS • Bootstrap • Flutter • Laravel • Firebase • MySQL
 
 #### 🛠️ Development Tools & IDEs
 
@@ -94,5 +97,5 @@ Hands-on networking and security work involving routing, addressing, access cont
 ---
 
 <p align="center">
-  Building my skills one project, one network, and one problem at a time.
+  <em>Building my skills one project, one network, and one problem at a time.</em>
 </p>
