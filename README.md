@@ -15,40 +15,53 @@
 
 ---
 
-### 👋 Quick Overview
+## 🧰 Tech Stack
 
-- 🎓 4th-year **BS Information Technology** student at **National University**
-- 🛠️ Currently developing **AFFORDAHOMES**, a full-stack capstone system
-- 📱 Built **CampusFind**, a Flutter + Firebase campus lost-and-found application
-- 🌐 Personal **portfolio website currently in development**
-- 🔐 Focused on **Network Engineering, Cybersecurity, and IT Infrastructure**
-- 💻 Building experience in **Full-Stack and Mobile Application Development**
+### 💻 Programming Languages & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,ts,dart,php,html,css&perline=9" />
+</p>
+
+**Languages:** Java • Kotlin • C++ • JavaScript • TypeScript • Dart • PHP • SQL  
+**Web Fundamentals:** HTML5 • CSS3
+
+### ⚙️ Frameworks, Libraries & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,flutter,laravel,mysql,firebase&perline=7" />
+</p>
+
+**Technologies:** React • Tailwind CSS • Bootstrap • Flutter • Laravel • MySQL • Firebase  
+**Backend Services:** Cloud Firestore • Firebase Authentication
+
+### 🛠️ Development Tools & IDEs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vite,androidstudio,eclipse,vscode,postman,git,github,linux&perline=8" />
+</p>
+
+**Tools & IDEs:** Vite • Android Studio • Eclipse • Dev-C++ • Visual Studio Code • Postman • Git • GitHub • Linux
+
+### 🌐 Networking & Security
+
+**Cisco Packet Tracer** • TCP/IP • IPv4 Addressing • Subnetting • VLSM • OSPF • ACLs • SSH • DHCP Snooping • Port Security • Network Administration • Network Troubleshooting
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Currently
 
-I'm a 4th-year BS Information Technology student with a strong interest in **Network Engineering, Cybersecurity, and IT Infrastructure**.
-
-I enjoy working with networking concepts such as **TCP/IP, subnetting, VLSM, routing, access control, secure remote access, network security, and troubleshooting**. Alongside networking, I also build full-stack and mobile applications using technologies such as React, Laravel, Flutter, Firebase, and MySQL.
-
-I'm continuously improving through hands-on projects, networking labs, certifications, software development, and practical technical problem solving.
-
----
-
-### 🎯 Current Focus
-
-- 🌐 Network Engineering & Network Administration
-- 🔐 Cybersecurity & IT Infrastructure
-- 🛠️ Network Configuration, Security & Troubleshooting
-- 💻 Full-Stack & Mobile Application Development
-- 🤖 Practical AI-assisted Development & IT Workflows
+- 🏠 Developing **AFFORDAHOMES**, a full-stack capstone system
+- 🌐 Building my personal **portfolio website**
+- 🔐 Strengthening my skills in **Network Engineering, Cybersecurity, and IT Infrastructure**
+- 💻 Expanding my experience in **Full-Stack and Mobile Application Development**
+- 🤖 Exploring practical **AI-assisted development and IT workflows**
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🏠 AFFORDAHOMES
+### 🏠 AFFORDAHOMES
 
 Full-stack capstone project focused on real-estate sales workflows, client-agent interactions, property inventory, inquiries, reservations, site visits, and system integration.
 
@@ -58,7 +71,7 @@ Full-stack capstone project focused on real-estate sales workflows, client-agent
 
 ---
 
-#### 📱 CampusFind — Campus Lost & Found App
+### 📱 CampusFind — Campus Lost & Found App
 
 Flutter + Firebase mobile application designed for campus use with authenticated reporting, real-time Firestore data, search and filtering, possible-item matching, AI-assisted explanations, and a Campus Security claim workflow.
 
@@ -68,7 +81,7 @@ Flutter + Firebase mobile application designed for campus use with authenticated
 
 ---
 
-#### 🌐 Networking & Security Lab
+### 🌐 Networking & Security Lab
 
 Hands-on networking and security work involving routing, addressing, subnetting, access control, switching security, secure remote access, DHCP protection, and network troubleshooting.
 
@@ -76,48 +89,19 @@ Hands-on networking and security work involving routing, addressing, subnetting,
 
 ---
 
-### 🧰 Technologies & Tools
+## 👨‍💻 About Me
 
-#### 💻 Programming Languages & Web Fundamentals
+I'm a 4th-year **BS Information Technology** student at **National University** with a strong interest in **Network Engineering, Cybersecurity, and IT Infrastructure**.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,ts,dart,php,html,css" />
-</p>
+I enjoy working with networking concepts such as **TCP/IP, subnetting, VLSM, routing, access control, secure remote access, network security, and troubleshooting**.
 
-**Languages:** Java • Kotlin • C++ • JavaScript • TypeScript • Dart • PHP • SQL  
-**Web Fundamentals:** HTML5 • CSS3
+Alongside networking, I also build full-stack and mobile applications using technologies such as **React, Laravel, Flutter, Firebase, and MySQL**.
 
-#### ⚙️ Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,flutter,laravel" />
-</p>
-
-**Frameworks & Libraries:** React • Tailwind CSS • Bootstrap • Flutter • Laravel
-
-#### 🗄️ Database & Backend Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
-
-**Database & Backend:** MySQL • Firebase • Cloud Firestore • Firebase Authentication
-
-#### 🛠️ Development Tools & IDEs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vite,androidstudio,eclipse,vscode,postman,git,github,linux" />
-</p>
-
-**Tools & IDEs:** Vite • Android Studio • Eclipse • Dev-C++ • Visual Studio Code • Postman • Git • GitHub • Linux
-
-#### 🌐 Networking & Security
-
-**Tools & Concepts:** Cisco Packet Tracer • TCP/IP • IPv4 Addressing • Subnetting • VLSM • OSPF • ACLs • SSH • DHCP Snooping • Port Security • Network Administration • Network Troubleshooting
+I'm continuously improving through hands-on projects, networking labs, certifications, software development, and practical technical problem solving.
 
 ---
 
-### 🎓 Certifications
+## 🎓 Certifications
 
 - **Network Technician Career Path** — Cisco
 - **Networking Devices and Initial Configuration** — Cisco
@@ -129,7 +113,7 @@ Hands-on networking and security work involving routing, addressing, subnetting,
 
 ---
 
-### 🔥 GitHub Activity
+## 🔥 GitHub Activity
 
 <p align="center">
   <img
@@ -140,7 +124,7 @@ Hands-on networking and security work involving routing, addressing, subnetting,
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Gennnnjii">
