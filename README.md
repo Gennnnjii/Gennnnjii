@@ -128,6 +128,7 @@ I'm continuously improving through real projects, networking labs, certification
 
 ## 🎓 Certifications
 
+- **TOPCIT – Test of Practical Competency in ICT (Level 4)** — Institute for Information & Communications Technology Promotion (IITP)
 - **Network Technician Career Path** — Cisco
 - **Networking Devices and Initial Configuration** — Cisco
 - **Network Addressing and Basic Troubleshooting** — Cisco
