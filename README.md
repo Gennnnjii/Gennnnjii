@@ -2,19 +2,28 @@
 <h3 align="center">Genji | 4th-Year BS Information Technology Student</h3>
 
 <p align="center">
-  <strong>Aspiring Network Engineer • Cybersecurity & IT Infrastructure</strong><br/>
+  <strong>Aspiring Network Engineer • Cybersecurity • IT Infrastructure</strong><br/>
   Full-Stack Developer • AI Enthusiast
 </p>
 
 <p align="center">
   <a href="https://genji-portfolio-ashy.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-00B8D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-Live-00B8D9?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
   <a href="https://www.linkedin.com/in/kevin-tolentino-46182a33a">
-    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Tolentino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Kevin%20Tolentino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:genjitolentino@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
@@ -32,32 +41,53 @@
 ### 💻 Programming Languages & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,ts,dart,php,html,css&perline=9" />
+  <img
+    src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,ts,dart,php,html,css&perline=9"
+    alt="Programming Languages and Web Technologies"
+  />
 </p>
 
 **Languages:** Java • Kotlin • C++ • JavaScript • TypeScript • Dart • PHP • SQL  
 **Web Fundamentals:** HTML5 • CSS3
 
-### ⚙️ Frameworks, Libraries & Platforms
+### ⚙️ Frameworks, Libraries & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,flutter,laravel,mysql,firebase&perline=7" />
+  <img
+    src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap,flutter,laravel&perline=6"
+    alt="Frameworks and Libraries"
+  />
 </p>
 
-**Technologies:** React • Tailwind CSS • Bootstrap • Flutter • Laravel • MySQL • Firebase  
+**Frontend & Mobile:** React • Tailwind CSS • Bootstrap • Flutter  
+**Backend & APIs:** Express.js • Laravel • REST APIs
+
+### 🗄️ Databases & Backend Services
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=3"
+    alt="Databases and Backend Services"
+  />
+</p>
+
+**Databases:** MySQL • MariaDB • MongoDB  
 **Backend Services:** Cloud Firestore • Firebase Authentication
 
 ### 🛠️ Development Tools & IDEs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vite,androidstudio,eclipse,vscode,postman,git,github,linux&perline=8" />
+  <img
+    src="https://skillicons.dev/icons?i=vite,androidstudio,eclipse,vscode,postman,git,github,linux&perline=8"
+    alt="Development Tools"
+  />
 </p>
 
 **Tools & IDEs:** Vite • Android Studio • Eclipse • Dev-C++ • Visual Studio Code • Postman • Git • GitHub • Linux
 
 ### 🌐 Networking & Security
 
-**Cisco Packet Tracer** • TCP/IP • IPv4 Addressing • Subnetting • VLSM • OSPF • ACLs • SSH • DHCP Snooping • Port Security • Network Administration • Network Troubleshooting
+**Cisco Packet Tracer** • TCP/IP • IPv4 Addressing • Subnetting • VLSM • OSPF • VLANs • 802.1Q • DHCP • DHCP Snooping • ACLs • SSH • Port Security • Network Administration • Network Security • Network Troubleshooting
 
 ---
 
@@ -66,7 +96,8 @@
 - 🏠 Maintaining and improving **AFFORDAHOMES**, my deployed full-stack capstone system
 - 🌐 Maintaining and improving my live **personal portfolio**
 - 🔐 Strengthening my skills in **Network Engineering, Cybersecurity, and IT Infrastructure**
-- 💻 Expanding my experience in **Full-Stack and Mobile Application Development**
+- 💻 Expanding my experience in **Full-Stack, Backend, and Mobile Application Development**
+- 🗄️ Building experience with **Express.js, REST APIs, MongoDB, MySQL, and Firebase**
 - 🤖 Exploring practical **AI-assisted development and IT workflows**
 
 ---
@@ -76,6 +107,8 @@
 ### 🏠 AFFORDAHOMES
 
 A deployed full-stack capstone system designed to support real-estate sales workflows, client-agent interactions, property inventory, inquiries, reservations, site visits, and integrated business processes.
+
+**Role:** Full-Stack Developer & System Integrator
 
 **Focus:** Full-Stack Development • REST APIs • Database Design • System Integration • Role-Based Workflows • Testing
 
@@ -89,7 +122,7 @@ Production-deployed personal portfolio showcasing my projects, technical skills,
 
 **Stack:** React • TypeScript • Vite • Tailwind CSS • Motion • Vercel
 
-**Production Setup:** Responsive Design • Accessibility • SEO Metadata • Sitemap • robots.txt • Vercel Web Analytics • Google Search Console
+**Production Setup:** Responsive Design • Accessibility • SEO Metadata • Sitemap • robots.txt • Open Graph Metadata • Vercel Web Analytics • Google Search Console • Security Response Headers
 
 🔗 [View Live Portfolio](https://genji-portfolio-ashy.vercel.app)  
 💻 [View Source Code](https://github.com/Gennnnjii/genji-portfolio)
@@ -108,9 +141,9 @@ Flutter + Firebase mobile application designed for campus use with authenticated
 
 ### 🌐 Enterprise Networking & Security Lab
 
-Hands-on networking and security work involving routing, addressing, subnetting, access control, switching security, secure remote access, DHCP protection, and network troubleshooting.
+Hands-on networking and security work involving routing, addressing, subnetting, VLANs, access control, switching security, secure remote access, DHCP protection, network segmentation, and technical troubleshooting.
 
-**Topics:** TCP/IP • IPv4 Addressing • Subnetting • VLSM • OSPF • ACLs • SSH • DHCP Snooping • Port Security
+**Topics:** TCP/IP • IPv4 Addressing • Subnetting • VLSM • VLANs • 802.1Q • OSPF • ACLs • SSH • DHCP Snooping • Port Security • Network Security • Network Troubleshooting
 
 ---
 
@@ -118,23 +151,25 @@ Hands-on networking and security work involving routing, addressing, subnetting,
 
 I'm a 4th-year **BS Information Technology** student at **National University** with a strong interest in **Network Engineering, Cybersecurity, and IT Infrastructure**.
 
-I enjoy hands-on work involving **TCP/IP, subnetting, VLSM, routing, access control, secure remote access, network security, troubleshooting, system integration, and technical problem solving**.
+My hands-on networking experience includes **TCP/IP, IPv4 addressing, subnetting, VLSM, routing, VLANs, access control, secure remote access, network security, infrastructure troubleshooting, system integration, and technical problem solving**.
 
-Alongside networking and infrastructure, I also build full-stack and mobile applications using technologies such as **React, Laravel, Flutter, Firebase, and MySQL**.
+Alongside networking and infrastructure, I also build full-stack and mobile applications using technologies such as **React, Express.js, Laravel, Flutter, Firebase, MySQL, and MongoDB**.
 
-I'm continuously improving through real projects, networking labs, certifications, software development, testing, deployment, and practical IT work.
+I have experience working across **frontend interfaces, backend APIs, databases, authentication, system integration, testing, deployment, and technical troubleshooting**.
+
+I'm continuously improving through real projects, networking and security labs, certifications, software development, backend development, testing, deployment, and practical IT work.
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications & Credentials
 
 - **TOPCIT – Test of Practical Competency in ICT (Level 4)** — Institute for Information & Communications Technology Promotion (IITP)
+- **IT Specialist - Networking** — Certiport / Pearson VUE
 - **Network Technician Career Path** — Cisco
 - **Networking Devices and Initial Configuration** — Cisco
 - **Network Addressing and Basic Troubleshooting** — Cisco
 - **Network Support and Security** — Cisco
 - **Networking Basics** — Cisco
-- **IT Specialist - Networking** — Certiport / Pearson VUE
 - **CompTIA IT Fundamentals+ (ITF+) Certification** — CompTIA
 
 ---
