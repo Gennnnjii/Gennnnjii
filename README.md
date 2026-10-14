@@ -218,11 +218,12 @@ I'm continuously improving through real projects, networking and security labs, 
       src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
       alt="Email"
     />
-  </a>
   <a href="https://genji-portfolio-ashy.vercel.app/resume/Kevin-Tolentino-Resume.pdf">
-    https://img.shields.io/badge/Resume-View%20PDF-EC1C24?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white
-  </a>
-</p>
+  <img
+    src="https://img.shields.io/badge/Resume-View%20PDF-EC1C24?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white"
+    alt="View Resume"
+  />
+</a>
 
 ---
 
