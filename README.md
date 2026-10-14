@@ -8,18 +8,27 @@
 
 <p align="center">
   <a href="https://genji-portfolio-ashy.vercel.app">
-    https://img.shields.io/badge/Portfolio-Live-00B8D9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white
+    <img
+      src="https://img.shields.io/badge/Portfolio-Live-00B8D9?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
   <a href="https://www.linkedin.com/in/kevin-tolentino-46182a33a">
-    https://img.shields.io/badge/LinkedIn-Kevin%20Tolentino-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Kevin%20Tolentino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:genjitolentino@gmail.com">
-    https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
 <p align="center">
-  https://komarev.com/ghpvc/?username=Gennnnjii&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat&amp;v=3
+  https://komarev.com/ghpvc/?username=Gennnnjii&label=Profile%20Views&color=0e75b6&style=flat&v=2
 </p>
 
 ---
@@ -29,7 +38,10 @@
 ### 💻 Programming Languages & Web
 
 <p>
-  https://skillicons.dev/icons?i=java,kotlin,cpp,js,ts,dart,php,html,css&amp;perline=9
+  <img
+    src="https://skillicons.dev/icons?i=java,kotlin,cpp,js,ts,dart,php,html,css&perline=9"
+    alt="Programming Languages and Web Technologies"
+  />
 </p>
 
 **Languages:** Java • Kotlin • C++ • JavaScript • TypeScript • Dart • PHP • SQL  
@@ -38,7 +50,10 @@
 ### ⚙️ Frameworks, Libraries & Backend
 
 <p>
-  https://skillicons.dev/icons?i=react,express,tailwind,bootstrap,flutter,laravel&amp;perline=6
+  <img
+    src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap,flutter,laravel&perline=6"
+    alt="Frameworks and Libraries"
+  />
 </p>
 
 **Frontend & Mobile:** React • Tailwind CSS • Bootstrap • Flutter  
@@ -47,7 +62,10 @@
 ### 🗄️ Databases & Backend Services
 
 <p>
-  https://skillicons.dev/icons?i=mysql,mongodb,firebase&amp;perline=3
+  <img
+    src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=3"
+    alt="Databases and Backend Services"
+  />
 </p>
 
 **Databases:** MySQL • MariaDB • MongoDB  
@@ -56,7 +74,10 @@
 ### 🛠️ Development Tools & IDEs
 
 <p>
-  https://skillicons.dev/icons?i=vite,androidstudio,eclipse,vscode,postman,git,github,linux&amp;perline=8
+  <img
+    src="https://skillicons.dev/icons?i=vite,androidstudio,eclipse,vscode,postman,git,github,linux&perline=8"
+    alt="Development Tools"
+  />
 </p>
 
 **Tools & IDEs:** Vite • Android Studio • Eclipse • Dev-C++ • Visual Studio Code • Postman • Git • GitHub • Linux
@@ -94,11 +115,11 @@ A deployed full-stack capstone system designed to support real-estate sales work
 
 ### 🌐 Personal Portfolio
 
-A production-deployed personal portfolio showcasing my projects, technical skills, certifications, and career direction in networking, cybersecurity, IT infrastructure, and software development.
+Production-deployed personal portfolio showcasing my projects, technical skills, certifications, and career direction in networking, cybersecurity, IT infrastructure, and software development.
 
 **Stack:** React • TypeScript • Vite • Tailwind CSS • Motion • Vercel
 
-**Production Setup:** Responsive Design • Accessibility • Reduced-Motion Support • SEO Metadata • Sitemap • robots.txt • Open Graph Metadata • Twitter Metadata • Vercel Web Analytics • Google Search Console • Security Response Headers
+**Production Setup:** Responsive Design • Accessibility • SEO Metadata • Sitemap • robots.txt • Open Graph Metadata • Vercel Web Analytics • Google Search Console • Security Response Headers
 
 🔗 [View Live Portfolio](https://genji-portfolio-ashy.vercel.app)  
 💻 [View Source Code](https://github.com/Gennnnjii/genji-portfolio)
@@ -107,7 +128,7 @@ A production-deployed personal portfolio showcasing my projects, technical skill
 
 ### 📱 CampusFind — Campus Lost & Found App
 
-A Flutter and Firebase mobile application designed for campus use with authenticated reporting, real-time Firestore data, search and filtering, possible-item matching, AI-assisted explanations, and a Campus Security claim workflow.
+Flutter + Firebase mobile application designed for campus use with authenticated reporting, real-time Firestore data, search and filtering, possible-item matching, AI-assisted explanations, and a Campus Security claim workflow.
 
 **Technologies:** Flutter • Dart • Firebase Authentication • Cloud Firestore • Provider • Firestore Security Rules
 
@@ -125,7 +146,7 @@ Hands-on networking and security work involving routing, addressing, subnetting,
 
 ## 👨‍💻 About Me
 
-I'm a fourth-year **BS Information Technology** student at **National University** with a strong interest in **Network Engineering, Cybersecurity, and IT Infrastructure**.
+I'm a 4th-year **BS Information Technology** student at **National University** with a strong interest in **Network Engineering, Cybersecurity, and IT Infrastructure**.
 
 My hands-on networking experience includes **TCP/IP, IPv4 addressing, subnetting, VLSM, routing, VLANs, access control, secure remote access, network security, infrastructure troubleshooting, system integration, and technical problem solving**.
 
@@ -153,12 +174,15 @@ I'm continuously improving through real projects, networking and security labs, 
 ## 🔥 GitHub Activity
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=Gennnnjii&amp;layout=compact&amp;langs_count=8&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00BFFF&amp;text_color=FFFFFF&amp;cache_seconds=86400
-  https://github-readme-stats.vercel.app/api?username=Gennnnjii&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00BFFF&amp;icon_color=00BFFF&amp;text_color=FFFFFF&amp;include_all_commits=true&amp;count_private=false&amp;cache_seconds=86400
+  https://github-readme-stats.vercel.app/api/top-langs/?username=Gennnnjii&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&cache_seconds=86400
+  https://github-readme-stats.vercel.app/api?username=Gennnnjii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&include_all_commits=true&count_private=false&cache_seconds=86400
 </p>
 
 <p align="center">
-  https://streak-stats.demolab.com?user=Gennnnjii&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=00BFFF&amp;fire=00BFFF&amp;currStreakLabel=00BFFF
+  <img
+    src="https://streak-stats.demolab.com?user=Gennnnjii&theme=dark&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
+    alt="Kevin Tolentino GitHub Streak"
+  />
 </p>
 
 ---
@@ -167,23 +191,38 @@ I'm continuously improving through real projects, networking and security labs, 
 
 <p align="center">
   <a href="https://github.com/Gennnnjii">
-    https://img.shields.io/badge/GitHub-Gennnnjii-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white
+    <img
+      src="https://img.shields.io/badge/GitHub-Gennnnjii-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 
   <a href="https://www.linkedin.com/in/kevin-tolentino-46182a33a">
-    https://img.shields.io/badge/LinkedIn-Kevin%20Tolentino-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Kevin%20Tolentino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="mailto:genjitolentino@gmail.com">
-    https://img.shields.io/badge/Email-genjitolentino%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white
+    <img
+      src="https://img.shields.io/badge/Email-genjitolentino%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 
   <a href="https://www.facebook.com/geennjiii/">
-    https://img.shields.io/badge/Facebook-Genji%20Tolentino-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white
+    <img
+      src="https://img.shields.io/badge/Facebook-Genji%20Tolentino-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      alt="Facebook"
+    />
   </a>
 
   <a href="https://www.instagram.com/geennnjii/">
-    https://img.shields.io/badge/Instagram-@geennnjii-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white
+    <img
+      src="https://img.shields.io/badge/Instagram-@geennnjii-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
   </a>
 </p>
 
