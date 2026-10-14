@@ -29,7 +29,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Gennnnjii&label=Profile%20Views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=Gennnnjii&label=Profile%20Views&color=0e75b6&style=flat&v=2"
     alt="Gennnnjii Profile Views"
   />
 </p>
@@ -178,6 +178,19 @@ I'm continuously improving through real projects, networking and security labs, 
 
 <p align="center">
   <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gennnnjii&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&cache_seconds=86400"
+    alt="Kevin Tolentino Most Used Languages"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Gennnnjii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&include_all_commits=true&count_private=false&cache_seconds=86400"
+    alt="Kevin Tolentino GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://streak-stats.demolab.com?user=Gennnnjii&theme=dark&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF"
     alt="Kevin Tolentino GitHub Streak"
   />
@@ -210,14 +223,7 @@ I'm continuously improving through real projects, networking and security labs, 
   </a>
 
   <a href="https://www.facebook.com/geennjiii/">
-    <img
-      src="https://img.shields.io/badge/Facebook-Genji%20Tolentino-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-      alt="Facebook"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/geennnjii/">
-    <img
+    < <img
       src="https://img.shields.io/badge/Instagram-@geennnjii-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
     />
